@@ -1,5 +1,5 @@
 
-- 😌 Im udit-uc15 (you can call me that)
+- 🙂 Im UCX (you can call me that)
 - 💾 I'm a Computer Science Enthusiast, and I write code in Python
 - 💬 I ❤️ Python
 
